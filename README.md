@@ -2,4 +2,4 @@
 1st GitHub Repository Practice
 
 # Practice 
-Markdown
+Markdown Practice
